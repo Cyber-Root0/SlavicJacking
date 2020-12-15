@@ -1,0 +1,10 @@
+C:\Users\Cyber_Root\source\repos\requestget\requestget\bin\Debug\requestget.exe.config
+C:\Users\Cyber_Root\source\repos\requestget\requestget\bin\Debug\requestget.exe
+C:\Users\Cyber_Root\source\repos\requestget\requestget\bin\Debug\requestget.pdb
+C:\Users\Cyber_Root\source\repos\requestget\requestget\obj\Debug\requestget.csprojAssemblyReference.cache
+C:\Users\Cyber_Root\source\repos\requestget\requestget\obj\Debug\requestget.Form1.resources
+C:\Users\Cyber_Root\source\repos\requestget\requestget\obj\Debug\requestget.Properties.Resources.resources
+C:\Users\Cyber_Root\source\repos\requestget\requestget\obj\Debug\requestget.csproj.GenerateResource.cache
+C:\Users\Cyber_Root\source\repos\requestget\requestget\obj\Debug\requestget.csproj.CoreCompileInputs.cache
+C:\Users\Cyber_Root\source\repos\requestget\requestget\obj\Debug\requestget.exe
+C:\Users\Cyber_Root\source\repos\requestget\requestget\obj\Debug\requestget.pdb
